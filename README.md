@@ -1,4 +1,3 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 <!--
 **tls3254/tls3254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
