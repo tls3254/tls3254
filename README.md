@@ -27,14 +27,17 @@
    <br/>
  
 #### :pencil2: Study log
- 
   <br/>
-  
+<div align=center>
+    <a href="https://git.io/streak-stats" title="Go to Source">
+      <img align="center" width=385 src="http://github-readme-streak-stats.herokuapp.com?user=tls3254&hide_border=true&theme=iceberg" alt="" />
+    </a>
+</div>
+</div>
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tls3254&layout=compact)](https://github.com/tls3254/github-readme-stats)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tls3254&show_icons=true&theme=radical)
-</div>
 
-<!--
 **tls3254/tls3254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
